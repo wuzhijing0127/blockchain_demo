@@ -474,6 +474,8 @@ await contract.connect(employer).verifyCredential(
 The first `verifyCredential` call should return `true`; the second should
 return `false`.
 
+You can check the demo console result in demo.pdf
+
 ---
 
 ## Project layout
